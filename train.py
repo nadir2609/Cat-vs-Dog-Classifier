@@ -159,7 +159,7 @@ def main():
     
     # Train model
     print("\nStarting training...")
-    model = train_model(model, train_loader, criterion, optimizer, device, epochs=5)
+    model = train_model(model, train_loader, criterion, optimizer, device, epochs=10)
     
     # Save model
     print("\nSaving model...")
