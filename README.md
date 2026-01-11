@@ -35,7 +35,7 @@ Place your cat images in the `Cat` folders and dog images in the `Dog` folders.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nadir2609/Cat-vs-Dog-Classifier.gi
+git clone https://github.com/nadir2609/Cat-vs-Dog-Classifier.git
 cd cat-dog-cnn
 ```
 
